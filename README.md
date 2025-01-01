@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle bug in React Router Dom v6 where components fail to re-render properly despite route changes. The bug is particularly prevalent when dealing with dynamic routes or query parameters. The `bug.js` file showcases the problematic code, while `bugSolution.js` presents a corrected version illustrating how to resolve the issue.
